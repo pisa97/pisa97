@@ -18,16 +18,9 @@
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=alexdruso&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-
 ### Get in touch with me 📝
 
 <br />
-
----
-
-
-<br/>
 
 ---
 
@@ -37,16 +30,15 @@
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alexdruso&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pisa97&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexdruso&theme=react&line_height=40&hide=css"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pisa97&theme=react&line_height=40&hide=css"/>
     </a>
 </div
 
 <br/>
-
-[website]: http://alessandrosanvito.me/
-[linkedin]: https://www.linkedin.com/in/alessandro-sanvito/
-[Spotify]: https://open.spotify.com/user/1174567610
+  
+[linkedin]: https://www.linkedin.com/in/arcangelo-pisa-8166a366/
+[Spotify]: https://open.spotify.com/user/1166715050
 
